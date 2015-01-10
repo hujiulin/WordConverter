@@ -1,0 +1,17 @@
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\bin\Debug\ConvertWordToHTML.exe
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\ConvertWordToHTML.MainForm.resources
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\ConvertWordToHTML.Properties.Resources.resources
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\ConvertWordToHTML.csproj.GenerateResource.Cache
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\ConvertWordToHTML.exe
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\ConvertWordToHTML.pdb
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\bin\Debug\ConvertWordToHTML.pdb
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\bin\Debug\Interop.Office.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\bin\Debug\Interop.VBIDE.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\Interop.Office.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\Interop.VBIDE.dll
+C:\Users\hujiulin\Desktop\ConvertWordToHTML\ConvertWordToHTML\obj\Debug\ConvertWordToHTML.csproj.ResolveComReference.cache
