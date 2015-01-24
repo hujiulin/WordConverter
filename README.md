@@ -1,6 +1,6 @@
 # WordConverter
 - Description: C# WindowsFormsApplication program, Based .Net FrameWork 3.5.
-- Get Started: GUI application, Click "Open" button to select Input folder contains .doc/.docx files, click "Ext" button to specify file extension and click "SaveTo" button to select Output folder. ConvertWordToHTML will convert Word files to HTML format files.
+- Get Started: GUI application, Click "Open" button to select Input folder contains .doc/.docx files, click "Ext" button to specify file extension and click "SaveTo" button to select Output folder. ConvertWordToHTML will convert Word files to specified format[HTML, PDF] files.
 - Depend on: Windows OS; .Net FramWork 3.5; Microsoft office word
 - Contact me: if any question, please email me: tohujiulin@126.com.
 - Start it: if help you, please star the project, thank you!
