@@ -8,8 +8,8 @@
     <ProjectGuid>{FC0B9C7C-86E2-41A0-8EAF-50055EE05673}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConvertWordToFile</RootNamespace>
-    <AssemblyName>ConvertWordToFile</AssemblyName>
+    <RootNamespace>WordConverter</RootNamespace>
+    <AssemblyName>WordConverver</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
