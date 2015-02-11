@@ -14,12 +14,12 @@
 #1. 程序主界面
 ![image](https://github.com/hujiulin/WordConverter/blob/master/screenshots/Mainform.png)
 #2. 导入数据
-https://github.com/hujiulin/WordConverter/blob/master/screenshots/Open.png
+![image](https://github.com/hujiulin/WordConverter/blob/master/screenshots/Open.png)
 #3. 处理中
-https://github.com/hujiulin/WordConverter/blob/master/screenshots/Processing.png
+![image](https://github.com/hujiulin/WordConverter/blob/master/screenshots/Processing.png)
 #4. 处理结束
-https://github.com/hujiulin/WordConverter/blob/master/screenshots/Finished.png
+![image](https://github.com/hujiulin/WordConverter/blob/master/screenshots/Finished.png)
 #5. 输入数据集
-https://github.com/hujiulin/WordConverter/blob/master/screenshots/Inputdata.png
+![image](https://github.com/hujiulin/WordConverter/blob/master/screenshots/Inputdata.png)
 #6. 输出数据集
-https://github.com/hujiulin/WordConverter/blob/master/screenshots/Outputdata.png
+![image](https://github.com/hujiulin/WordConverter/blob/master/screenshots/Outputdata.png)
